@@ -1,4 +1,4 @@
-**bokek** /bo·kek/ *adj. slang* out of money; broke: *it's not that I don't want to help you, but I'm currently -- myself.*
+**[bokek](https://kbbi.web.id/bokek)** /bo·kek/ *adj. slang* out of money; broke: *it's not that I don't want to help you, but I'm currently -- myself.*
 
 Kurang-dana is a personal organization dedicated to the art of extreme resourcefulness. I focus on building robust software that thrives under constraints—projects designed to do more with less.
 
