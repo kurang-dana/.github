@@ -1,6 +1,6 @@
 **[bokek](https://kbbi.web.id/bokek)** /bo·kek/ *adj. slang* out of money; broke: *it's not that I don't want to help you, but I'm currently -- myself.*
 
-Kurang-dana is a personal organization dedicated to the art of extreme resourcefulness. I focus on building robust software that thrives under constraints—projects designed to do more with less.
+**Bookék** is a personal organization dedicated to the art of extreme resourcefulness. I focus on building robust software that thrives under constraints—projects designed to do more with less.
 
 The philosophy here is that high-quality engineering shouldn't require expensive infrastructure or heavy abstractions. I treat the "lack of funds" as a creative constraint, focusing on building systems that are tiny, fast, and capable of running efficiently on minimal hardware. Most of what I host here are libraries and tools that ignore bloated modern patterns in favor of direct, low-level implementations. 
 
